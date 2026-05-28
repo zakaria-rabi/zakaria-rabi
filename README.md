@@ -65,15 +65,33 @@ Moulay Ismail University · Meknes, Morocco
 Full-stack platform combining **FastAPI** backend, **React** frontend, and **ML-based product recommendations**.  
 `Python` `FastAPI` `React` `Machine Learning`
 
+### 📊 [ML Notebooks](https://github.com/zakaria-rabi/ml-notebooks)
+> Machine Learning experiments and course exercises
+
+Hands-on notebooks covering supervised learning, clustering, neural networks, and model evaluation.  
+`Python` `scikit-learn` `TensorFlow` `Jupyter`
+
+### ⚙️ [Operations Research](https://github.com/zakaria-rabi/operations-research)
+> Linear Programming and OR exercises — Master IARO
+
+Implementations of LP, Integer Programming, and optimization algorithms using PuLP and GLPK.  
+`Python` `PuLP` `GLPK` `CBC`
+
+### ⚡ [Energy Optimization](https://github.com/zakaria-rabi/energy-optimization)
+> Hybrid AI + OR approach for energy consumption optimization
+
+Research project combining LSTM, Random Forest, XGBoost for load prediction feeding an LP solver minimizing distribution cost.  
+`Python` `LSTM` `XGBoost` `PuLP` `LaTeX`
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakaria-rabi&show_icons=true&theme=tokyonight&hide_border=true)
+![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakaria-rabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-rabi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-rabi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
